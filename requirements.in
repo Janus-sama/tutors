@@ -1,0 +1,17 @@
+django == 3.2.5
+django-rest-framework
+django-contrib-comments
+django-threadedcomments
+django-fluent-comments
+django-payments[stripe]
+django-vote
+django-rest-auth==0.9.5
+django-allauth==0.45.0
+pinax-badges
+Pillow==8.4.0
+psycopg2==2.8.4
+django-filter==21.1
+django_countries
+django-gamification
+symposion
+django-categories 
